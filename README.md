@@ -1,2 +1,2 @@
-# class20-designing_algorithms-
-using VSC
+# p5.play-boilerplate
+Boiler plate for p5.play
